@@ -1,0 +1,28 @@
+
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        <ul>
+            <li>Setting up an enabling environment</li>
+            <li>Introduction to HTML/CSS</li>
+            <li>Assignment on HTML</li>
+            <li>HTML/CSS Making web pages interactive</li>
+            <li>Assignments on HTML/ CSS using git hub</li>
+
+        </ul>
+
+
+
+    </body>
+
+</html>
